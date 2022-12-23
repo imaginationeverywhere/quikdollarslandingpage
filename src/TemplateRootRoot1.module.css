@@ -1,0 +1,502 @@
+.templateRootRootRoot {
+  height: 4657px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0em;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.newGroup {
+  width: 73.13em;
+  height: 1150px;
+  position: relative;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0px 0px 17.5em 0px;
+  padding: 0em 8.44em;
+}
+.bg5 {
+  width: 90em;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 3.75em 0em 12.19em 0em;
+  background-image: linear-gradient(45deg, #174411 0%, #c8c8c8 100%);
+}
+.flexColumn1 {
+  height: 484px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 1.38em 0px 0px;
+  padding: 0em 0em 19.44em 0em;
+}
+.bg7 {
+  height: 50px;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: flex-start;
+  align-items: center;
+  margin: 0px 0px 0px 0.56em;
+  padding: 0px 0.94em;
+  border-radius: 35px;
+  background-color: #ffffff;
+}
+.shape8 {
+  width: 1.25em;
+  height: 12px;
+}
+.flexColumn2 {
+  gap: 27px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0em;
+}
+.flexColumn3 {
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0em 0px 0.56em;
+}
+.amazingMobileAppL4 {
+  align-self: flex-start;
+  margin: 0px 0px 0px 0em;
+  font-size: 60px;
+  font-family: Avenir;
+  line-height: 78px;
+  white-space: nowrap;
+  letter-spacing: -1px;
+}
+.amazingMobileAppL1 {
+  display: contents;
+  color: #16bb00;
+  font-size: 60px;
+  font-family: Avenir;
+  line-height: 78px;
+  letter-spacing: -1px;
+}
+.amazingMobileAppL3 {
+  display: contents;
+  font-size: 60px;
+  font-family: Avenir;
+  line-height: 78px;
+  letter-spacing: -1px;
+}
+.creativeMobileApp3 {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: Avenir;
+  line-height: 74.5999984741211px;
+  white-space: nowrap;
+  letter-spacing: 0.15px;
+}
+.button2 {
+  height: 56px;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: flex-start;
+  align-items: center;
+  margin: 0px 0px 0px 0em;
+  padding: 0px;
+  padding-right: 2.47em;
+  padding-left: 2.47em;
+  border-width: 0px;
+  border-radius: 6px;
+  box-sizing: content-box;
+  background-color: #16bb00;
+  cursor: pointer;
+}
+.button2:hover {
+  opacity: 70%;
+}
+.text6 {
+  align-self: flex-start;
+  margin: 0.94em 1.13em 0px 0px;
+  color: #060c3a;
+  font-size: 16px;
+  font-family: Avenir;
+  white-space: nowrap;
+}
+.flexColumn4 {
+  gap: 39px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0em;
+}
+.flexRow {
+  width: 42.88em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0em 4.69em 0em 0.88em;
+}
+.flexRow1 {
+  gap: 34px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0.94em 0px 1.19em 0px;
+}
+.button4 {
+  height: 56px;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  padding-right: 2.47em;
+  padding-left: 2.47em;
+  border-width: 0px;
+  border-radius: 6px;
+  box-sizing: content-box;
+  background-color: #16bb00;
+  cursor: pointer;
+}
+.button4:hover {
+  opacity: 70%;
+}
+.flexColumn5 {
+  width: 43.13em;
+  height: 644px;
+  position: relative;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 1.75em 0em 1.75em 5.31em;
+}
+.qd1 {
+  width: 43.13em;
+  height: 622px;
+  position: relative;
+}
+.bg8 {
+  width: 48.63em;
+  height: 114px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding: 2.31em 14.13em 3.06em 10.38em;
+  border-radius: 30px;
+  background-color: #ffffff;
+}
+.getInTouchBy {
+  margin: 0px 5.23em 0.8em 0px;
+  color: #060c3a;
+  font-size: 40px;
+  font-family: Roboto;
+  white-space: nowrap;
+  letter-spacing: -0.5px;
+}
+.googleplay {
+  width: 6.88em;
+  height: 110px;
+  margin: 0px 8.69em 0em 0px;
+}
+.applelogo {
+  width: 6.88em;
+  height: 110px;
+  align-self: flex-start;
+  margin: 0em 0px 0px 0px;
+}
+.newGroup1 {
+  width: 57.91em;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  align-items: center;
+  margin: 0px 15.94em 2.91em 0px;
+  padding: 0em 0px;
+}
+.easyToEdit {
+  margin: 0px 10.75em 0px 0px;
+  color: #060c3a;
+  font-size: 24px;
+  font-family: Roboto;
+  white-space: nowrap;
+  letter-spacing: -0.4px;
+}
+.text9 {
+  margin: 0px 10.46em 0px 0px;
+  color: #060c3a;
+  font-size: 24px;
+  font-family: Roboto;
+  text-align: center;
+  white-space: nowrap;
+  letter-spacing: -0.4px;
+}
+.uxuiKit {
+  color: #060c3a;
+  font-size: 24px;
+  font-family: Roboto;
+  text-align: center;
+  white-space: nowrap;
+  letter-spacing: -0.4px;
+}
+.newGroup2 {
+  width: 54.38em;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 0px 0px 1.78em 0px;
+  padding: 0em 0px;
+}
+.ceruleanFlexColumn {
+  height: 70px;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0.47em 0.56em 0px 0px;
+  padding: 0px 1.19em 0px 1.25em;
+  border-radius: 35px;
+  background-color: #04befe;
+}
+.shape4 {
+  height: 18px;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0.31em;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/42LRUhsvjIGlNpjUTWuj.svg");
+}
+.shape5 {
+  width: 1.31em;
+  height: 7px;
+}
+.lines {
+  height: 84px;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: center;
+  align-items: center;
+  margin: 0px 0.63em 0px 0px;
+  padding: 0.47em 20em 0.47em 20.06em;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/digttgIRiEzcNj1l0Itd.svg");
+}
+.macaroniAndCheeseFlexColumn {
+  height: 70px;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 1.25em;
+  border-radius: 35px;
+  background-color: #ffb88a;
+}
+.shape6 {
+  width: 1.88em;
+  height: 30px;
+}
+.indigoFlexColumn {
+  height: 70px;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0.47em 0px 0px 0px;
+  padding: 0px 1.44em;
+  border-radius: 35px;
+  background-color: #8aabff;
+}
+.shape7 {
+  width: 1.5em;
+  height: 34px;
+}
+.newGroup3 {
+  width: 69.38em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 0px 7.06em 0px;
+}
+.newGroup4 {
+  width: 90em;
+  height: 1920px;
+  position: relative;
+  gap: 99px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0px 0px 13.44em 0px;
+}
+.bg3 {
+  position: relative;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 6.19em 41.56em 7.56em 4.69em;
+  background-image: linear-gradient(45deg, #629151 0%, #f2f6fd 100%);
+}
+.oval {
+  width: 43.75em;
+  height: 700px;
+}
+.group16 {
+  width: 76.88em;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0em 4.69em 0em 8.44em;
+}
+.group17 {
+  height: 285px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 13.69em 0em 12.63em 0em;
+}
+.loremIpsumDolorSi {
+  width: 19.38em;
+  align-self: center;
+  margin: 0px 0px 3.44em 0px;
+  color: #8c8e9e;
+  font-size: 16px;
+  font-family: Roboto;
+  line-height: 28px;
+}
+.group18 {
+  width: 21.88em;
+  height: 706px;
+  position: relative;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0em 12.19em 0em 9.69em;
+}
+.black {
+  width: 21.88em;
+  height: 700px;
+  position: relative;
+}
+.qd {
+  height: 280px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 32.06em 11.38em 28.19em 58.44em;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/2IyVJgdwk9YDOxkTSVZb.png");
+}
+.loremIpsumDolorSi1 {
+  width: 19.38em;
+  align-self: center;
+  margin: 0px 0px 3.13em 0px;
+  color: #8c8e9e;
+  font-size: 16px;
+  font-family: Roboto;
+  line-height: 28px;
+}
+.newGroup5 {
+  width: 73.13em;
+  height: 749px;
+  position: relative;
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: flex-end;
+  align-items: center;
+  margin: 0px 0em 0px 0px;
+  padding: 0em 8.44em 0em 8.31em;
+}
+.bg {
+  width: 89.88em;
+  height: 649px;
+  left: 0px;
+  top: 100px;
+  position: absolute;
+  background-image: linear-gradient(45deg, #77a263 0%, #f2f6fd 100%);
+}
+.bg1 {
+  width: 73.13em;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 5em 0px;
+  border-radius: 30px;
+  background-color: #ffffff;
+  box-shadow: 0px 50px 100px 0px rgba(6, 12, 58, 0.2);
+}
+.shape {
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0px 16.25em 0px 0px;
+  padding: 0.44em 0.44em 0.63em 0.63em;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/tIkTE5jpHTkkHzHBeBKN.svg");
+}
+.shape1 {
+  width: 1.44em;
+  height: 23px;
+}
+.logofacebook {
+  width: 2.5em;
+  height: 40px;
+  margin: 0px 16.13em 0px 0px;
+}
+.shape2 {
+  width: 2.81em;
+  height: 33.9px;
+  margin: 0px 16.06em 0px 0px;
+}
+.shape3 {
+  width: 2.5em;
+  height: 40px;
+}
